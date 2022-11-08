@@ -138,18 +138,7 @@ img {
         flex-direction: column;
         align-items: center;
     }
-   
- }
-
- /* SOLUZIONE TABLET */
-
- @media screen and (max-width: 768px){
-
-    .container{
-        width: 100%;
-        justify-content: center;
-    }
-
+    
     .text-center{
         margin: 0em 1em 2em 1em;
     }
@@ -167,5 +156,18 @@ img {
         padding-top:3em;
         margin: 0;
     }
+   
+ }
+
+ /* SOLUZIONE TABLET */
+
+ @media screen and (max-width: 768px){
+
+    .container{
+        width: 100%;
+        justify-content: center;
+    }
+
+
 
  }
