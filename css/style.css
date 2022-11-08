@@ -129,7 +129,7 @@ img {
  ************************************************/
 
 
- /* Soluzione smartphone */
+ /* SOLUZIONE SMARTPHONE */
 
  @media screen and (max-width: 480px){
 
@@ -139,7 +139,7 @@ img {
         align-items: center;
     }
    
-}
+ }
 
  /* SOLUZIONE TABLET */
 
@@ -156,7 +156,7 @@ img {
 
     .lessons .col, .steps .col, .why-us .col{
         width: 85%;
-        padding-bottom: 5em;
+        padding-bottom: 3em;
     }
 
     .why-us{
